@@ -1,0 +1,1 @@
+This is a project created with bootstrap using a responsive layout.
