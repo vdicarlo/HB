@@ -1,0 +1,85 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: lightblue;
+}
+
+#logo {width: 200px;
+position: absolute;
+margin-top: 10%;
+}
+
+#bottom-logo {width: 200px;
+    position: absolute;
+    margin-top: 5%;
+margin-bottom: 10%;
+margin-left: 5%;
+}
+
+/* Background Images */
+.first {
+    background-image: url("https://wallpapercave.com/wp/VCE2Lku.jpg");
+    background-color: #3a8592;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+
+  
+ }
+
+ .second {
+    background-image: url("https://www.jerde.com/assets/images/places/slideshow/pacific-city-20.jpg");
+    background-color: #3a8592;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+  
+ }
+
+ #header {color: white;
+    text-align: center;
+    padding-top: 20%;
+
+}
+
+h2 {text-align: center;
+}
+/* Live Work Play Columns*/
+
+.col-sm {border: solid;}
+
+.col-first {background-image: url("https://www.huntingtonbeachca.gov/images/residents2.jpg");
+background-size: cover;
+margin: 5px;
+}
+
+.col-second {background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDuS5-OoMgoIgJViQFR0QlWwG_E-di-78sXlompA75T01SmQGGQ");
+    background-size: cover;
+    margin: 5px;
+}
+
+.col-third {background-image: url("https://resizer.otstatic.com/v2/photos/huge/24870308.jpg");
+    background-size: cover;
+    margin: 5px;
+}
+
+.col-text {color: white;
+}
+
+/* Footer */
+
+.footer-address {  color: white;
+     padding-top: 5%;
+    margin-top: 0%;
+    margin-left: 40%;
+    margin-bottom: 1rem;
+}
+
+p>a { color: white;
+    font-weight: bold;
+}
